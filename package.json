@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "private": true,
   "license": "MIT",
-  "author": "LeoKu<leokudev@gmail.com> (https://leoku.top)",
+  "author": "xiaoreya",
+  "“homepage”": "https://xiaoreya-avatar/vue-color-avatar",
   "scripts": {
     "build": "npm run test && vite build",
     "build:prerelease": "vite build --mode prerelease",
