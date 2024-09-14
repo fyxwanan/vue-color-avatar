@@ -1,7 +1,7 @@
 node_modules
 .DS_Store
-dist
-dist-ssr
+# dist
+# dist-ssr
 *.local
 yarn-error.log
 stats.html
